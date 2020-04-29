@@ -62,7 +62,7 @@ Quake VR supports the "Scourge of Armagon" official mission pack. It can be inst
 
 3. Open the `hipnotic` folder.
 
-4. Make a copy of `pak0.pak`, and rename it to `pak3.pak`.
+4. Make a copy of `pak0.pak`, and rename it to `pak2.pak`.
 
 5. Copy the newly created `pak2.pak` in your Quake VR installation folder, under `Id1`. Usually, this means simply copying `pak2.pak` to `../Id1`.
 
